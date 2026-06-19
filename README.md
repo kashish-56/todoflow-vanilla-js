@@ -2,7 +2,7 @@
 
 > A minimal, fast, and intuitive task management app designed to help you stay productive every day.
 
-🚀 **Live App:** [https://kashish-56.github.io/Todo-App/](https://kashish-56.github.io/Todo-App/)
+🚀 **Live App:** [https://kashish-56.github.io/todoflow-vanilla-js/](https://kashish-56.github.io/todoflow-vanilla-js/)
 
 ---
 
@@ -81,7 +81,7 @@ TASK CARD
 
 ## 📸 Preview
 
-👉 **Live Demo:** [https://kashish-56.github.io/Todo-App/](https://kashish-56.github.io/Todo-App/)
+👉 **Live Demo:** [https://kashish-56.github.io/todoflow-vanilla-js/](https://kashish-56.github.io/todoflow-vanilla-js/)
 
 ---
 
@@ -91,11 +91,12 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/kashish-56/Todo-App.git](https://github.com/kashish-56/Todo-App.git)
-   ```
+  git clone https://github.com/kashish-56/todoflow-vanilla-js.git
+  ```
+   
 2. Navigate to the project directory:
    ```bash
-   cd Todo-App
+   cd todoflow-vanilla-js
    ```
 3. Open the file in your preferred web browser.
    ```bash
@@ -152,7 +153,7 @@ Contributions are what make the developer community such an amazing place to lea
 **Kashish Kumari**
 
 * **GitHub:** [https://github.com/kashish-56](https://github.com/kashish-56)
-* **Live Project:** [https://kashish-56.github.io/Todo-App/](https://kashish-56.github.io/Todo-App/)
+* **Live Project:** [https://kashish-56.github.io/todoflow-vanilla-js/](https://kashish-56.github.io/todoflow-vanilla-js/)
 
 ---
 
