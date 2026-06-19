@@ -94,11 +94,11 @@ To get a local copy up and running, follow these simple steps:
   git clone https://github.com/kashish-56/todoflow-vanilla-js.git
   ```
    
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    ```bash
    cd todoflow-vanilla-js
    ```
-4. Open the file in your preferred web browser.
+3. Open the file in your preferred web browser.
    ```bash
    index.html
    ```
